@@ -1,0 +1,7 @@
+Tag :- HTMl tags are like keywords which define that how web browser will formate and display the content.With the help of tags,
+a web browser can distinguish between an HTML content and a simple content.HTML tags contain three main parts:opening tag,
+content and closing tag.But some HTML tags are unclosed tags.You can use as many tags you want as per your code requirement.
+
+Elements :- An HTML file is made of elements.These elements are responsible for creating web page and define content in that webpage.
+An element in HTML usually consist of starting tag <tag name>,close tag</tag name> and content inserted between them.
+Technically , an element is a collection of start tag,attribute,end tag and content betweenthem.

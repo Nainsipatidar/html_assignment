@@ -1,0 +1,3 @@
+The HTML document type declaration,also known as DOCTYPE, and it is the first line of code required in every HTML or XHTML document.
+HTML <!DOCTYPE> tag is used to inform the browser about the version of HTML used in the document.It is called as the documenttype declaration(DTD.)
+Actually,there are many type of HTML e.g.HTML 4.01 Strict,HTML 4.01 Transitional etc.

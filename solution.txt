@@ -1,0 +1,2 @@
+In HTML, a comment is a section of text that is not processed by the web browser.Comments are enclosed in <!-- -->
+tag. These tag tell the browser that the text inside them is a comment and should not be rendered on the front end.
